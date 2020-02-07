@@ -4,6 +4,5 @@ Utilized the AAC's intake and outtake data from Kaggle to review the ages and br
 Important files: 
 Code: Capstone 1 Final Version
 Slides: Capstone 1 AAC Data
-AAC Data: aac_intakes_outcomes.csv
 Summary Report: Capstone Project 1: Milestone Report
 Link to data: https://www.kaggle.com/aaronschlegel/austin-animal-center-shelter-intakes-and-outcomes/data
